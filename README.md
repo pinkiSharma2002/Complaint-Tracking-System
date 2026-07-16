@@ -113,3 +113,24 @@ private static final String PASS = "your_mysql_password";
 | Database   | MySQL + JDBC          |
 | Server     | Apache Tomcat 9       |
 | IDE        | Eclipse / IntelliJ    |
+
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](assets/home.png)
+
+### User Login
+![Login](assets/login.png)
+
+### Submit Complaint
+![Submit Complaint](assets/submit_complaint.png)
+
+### My Complaints
+![My Complaints](assets/my_complaints.png)
+
+### Admin Dashboard
+![Admin Dashboard](assets/admin_dashboard.png)
+
+### Complaint Details
+![Complaint Details](assets/view_complaint.png)
