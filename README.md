@@ -133,4 +133,4 @@ private static final String PASS = "your_mysql_password";
 ![Admin Dashboard](assets/admin_dashboard.jpeg)
 
 ### Complaint Details
-![Complaint Details](assets/view_complaint.jpeg)
+![Complaint Details](assets/update_complaint.jpeg)
