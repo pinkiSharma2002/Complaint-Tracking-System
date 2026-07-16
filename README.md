@@ -117,20 +117,20 @@ private static final String PASS = "your_mysql_password";
 
 ## 📸 Screenshots
 
-### Home Page
-![Home Page](assets/home.png)
+### User Registeration
+![Register](assets/register.jpeg)
 
 ### User Login
-![Login](assets/login.png)
+![Login](assets/login.jpeg)
 
 ### Submit Complaint
-![Submit Complaint](assets/submit_complaint.png)
+![Submit Complaint](assets/submit_complaint.jpeg)
 
 ### My Complaints
-![My Complaints](assets/my_complaints.png)
+![My Complaints](assets/my_complaint.jpeg)
 
 ### Admin Dashboard
-![Admin Dashboard](assets/admin_dashboard.png)
+![Admin Dashboard](assets/admin_dashboard.jpeg)
 
 ### Complaint Details
 ![Complaint Details](assets/view_complaint.png)
